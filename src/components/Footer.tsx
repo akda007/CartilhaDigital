@@ -42,15 +42,6 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* Bottom Section */}
-        <div className="border-t border-green-400 pt-8 text-center">
-          <p className="text-green-100 mb-4">
-            © 2024 Educação Ambiental - Preservação de Espécies e Fauna
-          </p>
-          <p className="text-green-200 text-sm">
-            Construído com 💚 para um planeta melhor
-          </p>
-        </div>
       </div>
     </footer>
   );

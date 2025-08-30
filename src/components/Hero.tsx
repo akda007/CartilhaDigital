@@ -35,14 +35,14 @@ const Hero = () => {
       <div className="relative z-10 text-center px-6 max-w-5xl mx-auto">
         <div className="animate-fade-in-up">
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-            Educação <span className="text-nature-green-light">Ambiental</span>
+            Valorização e Conservação do <span className="text-nature-green-light">Rio Iguaçu</span>
           </h1>
           <h2 className="text-2xl md:text-3xl font-semibold text-white mb-8">
-            Preservação de Espécies e Fauna
+            O Projeto do Bioclube do Colégio Estadual Lúcia Bastos
           </h2>
           <p className="text-xl md:text-2xl text-gray-100 mb-12 max-w-3xl mx-auto leading-relaxed font-medium">
-            Descubra a importância da biodiversidade e aprenda como podemos proteger 
-            nosso planeta para as futuras gerações.
+             Conheça a jornada de estudantes na criação de uma cartilha para conscientizar 
+             a comunidade sobre o rio mais importante do Paraná.
           </p>
           <Button 
             onClick={scrollToContent}
