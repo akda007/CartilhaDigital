@@ -234,6 +234,15 @@
     .timeline-dot {
       @apply relative left-0 transform-none mb-4;
     }
+
+    /* Ajuste da posição do indicador */
+    .timeline-dot.active{
+      --tw-translate-x: 0 !important;
+    }
+
+    .scroll-indicator{
+      visibility: hidden;
+    }
   }
 }
 
