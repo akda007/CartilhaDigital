@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Leaf, Waves, Heart, VolumeX, Music } from "lucide-react";
 import { useState, useRef } from "react";
-import heroImage from "@/assets/capa.png";
+import heroImage from "@/assets/capa2.jpg";
 import musicFile from "@/assets/MusicaCartilha.wav";
 
 const Hero = () => {
